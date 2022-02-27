@@ -266,8 +266,8 @@ export default {
 	top: -0.5vw;
 }
 .car__producer-logo {
-	width: 75%;
-	max-height: 75%;
+	width: 60%;
+	max-height: 60%;
 }
 
 .car__model {
@@ -286,10 +286,10 @@ export default {
 	position: absolute;
 	height: 4vw;
 
-	right: -1vw;
+	left: 10vw;
 	top: 50%;
 
-	transform: translate(50%, -50%);
+	transform: translate(0, -50%);
 }
 
 .showroom__buttons {
